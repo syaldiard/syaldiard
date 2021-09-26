@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @syaldiard
-- 👀 I’m interested in UI/UX Design, Data Science, Machine learning and Front-End Development
+- 👀 I’m interested in UI/UX Design, Graphic Design, Editting Video, Data Science, Machine learning and Front-End Development
 - 🌱 I’m currently learning basic about HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on -
 - 📫 How to reach me -
